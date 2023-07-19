@@ -434,7 +434,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     uimremoteclient \
     uimremoteserver \
-    DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel4 \
     EuiccGoogle \
     QtiTelephonyService \
